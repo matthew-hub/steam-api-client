@@ -1,0 +1,29 @@
+{
+  "name": "steam-api-client",
+  "version": "0.0.9",
+  "description": "Client Side Steam Web API. Makes app development easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-hub/steam-api-client.git"
+  },
+  "keywords": [
+    "steam-api",
+    "client-side",
+    "json-data"
+  ],
+  "author": "matthew-hub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthew-hub/steam-api-client/issues"
+  },
+  "homepage": "https://github.com/matthew-hub/steam-api-client#readme",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
