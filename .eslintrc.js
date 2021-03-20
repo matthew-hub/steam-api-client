@@ -15,6 +15,7 @@ module.exports = {
     'array-bracket-newline': ['error', { multiline: true }],
     'max-len': ['error', { code: 120 }],
     'operator-linebreak': ['error', 'before'],
+    'eol-last': ['error', 'never'],
     'comma-dangle': [
       'error',
       {
